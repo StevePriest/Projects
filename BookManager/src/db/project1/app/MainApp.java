@@ -1,10 +1,4 @@
-/* 	Program Name:	Project 1 (Book Manager)
-
-	Student Name:	Steven Priest
-	Semester:	Fall 2019
-	Class-Section:	COSC 30603-020
-	Instructor:	Dr. Wei
-
+/* 
 	Program Overview:
 		This program accepts user commands from console. Once program starts, user is prompted
 		to select the desired function by entering the corresponding number. Based on the user's
